@@ -2,6 +2,8 @@
 
 # | Cursando Engenharia de Software | Full-Stack |Python | 
 
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRamires468&layout=compact&theme=dracula)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-ramires-357338201/) 
 
 # Habilidades 
